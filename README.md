@@ -1,5 +1,8 @@
 # 🖧 **ConneXion: Network Simulation Design for Organizational Connectivity**
 
+![Network Design](https://github.com/ahtisham73/ConneXion/blob/f4d7cd73d996b88eb2bede4db4e9f467003b592f/Network-Design.jpg)
+
+
 **ConneXion** is a comprehensive network design project built using Cisco Packet Tracer, showcasing a robust infrastructure for an organization with multiple branches and server management. This design ensures efficient communication, optimized resource allocation, and seamless connectivity across the company's internal network.
 
 ## 📂 **Repository Contents**
